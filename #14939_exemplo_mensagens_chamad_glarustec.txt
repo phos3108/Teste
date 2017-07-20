@@ -1,0 +1,225 @@
+Examplo de msg 1:
+
+---------- Forwarded message ----------
+From: Mail Delivery System <MAILER-DAEMON@mx.uol.com.br>
+Date: 2017-02-10 8:45 GMT-02:00
+Subject: Undelivered Mail Returned to Sender
+To: nlucinda@princesadonorte.com.br
+
+
+This is the mail system at host a2-starfury6.uol.com.br.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<danni.olive@uol.com.br>: host mfuol.mail.sys.intranet[10.129.135.35] said: 550
+    RCPT TO:<danni.olive@uol.com.br> User unknown (in reply to RCPT TO command)
+
+Final-Recipient: rfc822; danni.olive@uol.com.br
+Original-Recipient: rfc822;danni.olive@uol.com.br
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mfuol.mail.sys.intranet
+Diagnostic-Code: smtp; 550 RCPT TO:<danni.olive@uol.com.br> User unknown
+
+
+---------- Mensagem encaminhada ----------
+From: Nlucinda <nlucinda@princesadonorte.com.br>
+To: danni.olive@uol.com.br
+Cc: 
+Bcc: 
+Date: Fri, 10 Feb 2017 08:45:07 -0200
+Subject: COMPROVANTE - TED
+ 	 	 
+ 	Prezado(a) danni.olive@uol.com.br	 
+ 	
+Segue(m) anexo(s) o(s) Comprovante(s) enviado(s) por, danni.olive@uol.com.br 
+. 
+Para abrir o seu comprovante, será necessário que você tenha o programa Adobe Acrobat Reader instalado. Caso você ainda não tenha este programa instalado acesse o site www.adobe.com.br para fazer o download gratuito do mesmo. 
+
+
+Comprovante-TED-2153534345.PDF
+
+
+Esta é uma mensagem automática, este e-mail não deve ser respondido.
+ATENÇÃO : Em caso de dúvidas entre em contato com nossa Central de Relacionamento pelo site ou ligue para 0800-413011 (ligação gratuita). 
+
+Esta é uma mensagem gerada automaticamente, portanto, não deve ser respondida.	 
+
+
+
+Exemplo de mensagem 2
+
+---------- Forwarded message ----------
+From: Mail Delivery System <MAILER-DAEMON@email.comporte.com.br>
+Date: 2017-03-02 9:19 GMT-03:00
+Subject: Undelivered Mail Returned to Sender
+To: nlucinda@princesadonorte.com.br
+
+
+This is the mail system at host email.comporte.com.br.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<fabiano.borges@iftlog.com.br>: host iftlog.com.br[192.185.220.4] said: 550 No
+    Such User Here" (in reply to RCPT TO command)
+
+Final-Recipient: rfc822; fabiano.borges@iftlog.com.br
+Original-Recipient: rfc822;fabiano.borges@iftlog.com.br
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; iftlog.com.br
+Diagnostic-Code: smtp; 550 No Such User Here"
+
+
+---------- Mensagem encaminhada ----------
+From: Atendimento ao Cliente <nlucinda@princesadonorte.com.br>
+To: fabiano.borges@iftlog.com.br
+Cc: 
+Bcc: 
+Date: Thu, 2 Mar 2017 09:22:25 -0300
+Subject: Informe de rendimentos Fevereiro 2017 Matricula 002423707149
+ 	INFORME DE RENDIMENTOS   
+
+Este é um e-mail automático  
+Por favor não responda.
+Prezado(a) Fabiano.borges,
+Segue o informe de rendimentos.
+Atenciosamente,
+Informe de Rendimentos Fevereiro 2017 
+
+
+Exemplo de mensagem 3:
+
+---------- Forwarded message ----------
+From: Nilson Lucinda (Princesa) <nlucinda@princesadonorte.com.br>
+Date: 2017-03-02 9:26 GMT-03:00
+Subject: Fwd: Undelivered Mail Returned to Sender
+To: "Gabriel Manzzaro (Glarus SBC - TI)" <gmanzzaro@glarustec.com.br>
+Cc: "Gustavo Yamashita (Princesa - TI)" <gyamashita@princesadonorte.com.br>
+
+
+
+---------- Forwarded message ----------
+From: Mail Delivery System <MAILER-DAEMON@email.comporte.com.br>
+Date: 2017-02-10 8:03 GMT-02:00
+Subject: Undelivered Mail Returned to Sender
+To: nlucinda@princesadonorte.com.br
+
+
+This is the mail system at host email.comporte.com.br.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<agente007sp@wmidia.com.br>: host aspmx.l.google.com[64.233.190.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser k186si869199qke.328 - gsmtp
+    (in reply to RCPT TO command)
+
+Final-Recipient: rfc822; agente007sp@wmidia.com.br
+Original-Recipient: rfc822;agente007sp@wmidia.com.br
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser k186si869199qke.328 - gsmtp
+
+
+---------- Mensagem encaminhada ----------
+From: Nlucinda <nlucinda@princesadonorte.com.br>
+To: agente007sp@wmidia.com.br
+Cc: 
+Bcc: 
+Date: Fri, 10 Feb 2017 08:00:55 -0200
+Subject: SEGUE DADOS CADASTRAIS CNPJ 5356146897/0001-07
+SEGUE DADOS CADASTRAIS CNPJ CPF E ENDERECO DOS SOCIOS EM PDF
+
+₪ FICHA DE CADASTRO PDF
+
+
+
+Exemplo de mensagem 4:
+
+
+---------- Forwarded message ----------
+From: Mail Delivery System <MAILER-DAEMON@mx.uol.com.br>
+Date: 2017-02-10 8:45 GMT-02:00
+Subject: Undelivered Mail Returned to Sender
+To: nlucinda@princesadonorte.com.br
+
+
+This is the mail system at host a2-stealth3.uol.com.br.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<danni.ana@uol.com.br>: host mfuol.mail.sys.intranet[10.129.135.39] said: 550
+    RCPT TO:<danni.ana@uol.com.br> User unknown (in reply to RCPT TO command)
+
+Final-Recipient: rfc822; danni.ana@uol.com.br
+Original-Recipient: rfc822;danni.ana@uol.com.br
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mfuol.mail.sys.intranet
+Diagnostic-Code: smtp; 550 RCPT TO:<danni.ana@uol.com.br> User unknown
+
+
+---------- Mensagem encaminhada ----------
+From: Nlucinda <nlucinda@princesadonorte.com.br>
+To: danni.ana@uol.com.br
+Cc: 
+Bcc: 
+Date: Fri, 10 Feb 2017 08:45:06 -0200
+Subject: COMPROVANTE - TED
+ 	 	 
+ 	Prezado(a) danni.ana@uol.com.br	 
+ 	
+Segue(m) anexo(s) o(s) Comprovante(s) enviado(s) por, danni.ana@uol.com.br 
+. 
+Para abrir o seu comprovante, será necessário que você tenha o programa Adobe Acrobat Reader instalado. Caso você ainda não tenha este programa instalado acesse o site www.adobe.com.br para fazer o download gratuito do mesmo. 
+
+
+Comprovante-TED-6864552482.PDF
+
+
+Esta é uma mensagem automática, este e-mail não deve ser respondido.
+ATENÇÃO : Em caso de dúvidas entre em contato com nossa Central de Relacionamento pelo site ou ligue para 0800-413011 (ligação gratuita). 
+
+Esta é uma mensagem gerada automaticamente, portanto, não deve ser respondida.	 
+
+
+
